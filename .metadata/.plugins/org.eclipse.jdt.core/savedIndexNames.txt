@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+/home/linux/Documents/workspace-jogo-de-xadrez/.metadata/.plugins/org.eclipse.jdt.core
+646308851.index
+1712646132.index
