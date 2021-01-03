@@ -25,7 +25,5 @@ public class Program {
 			
 			ChessPiece capturedPiece = chessMatch.performChessMove(source, target);
 	}
-		
-	}
 
 }
